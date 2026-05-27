@@ -65,24 +65,4 @@
 
 ---
 
-<h3 align="left">GitHub Stats:</h3>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=dedeepya77&show_icons=true&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dedeepya77&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-<h3 align="left">🔥 Streak Stats:</h3>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=dedeepya77&theme=tokyonight"/>
-</p>
-
----
-
 <h3 align="center">✨ Thanks for visiting my profile! ✨</h3>
