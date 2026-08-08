@@ -10,7 +10,7 @@
 - 👩‍💻 My projects include:
   - **SmartHub Console-Based Java Project**
   - **AI Powered Product Recommendation System**
-  - **Twitter Sentiment Analysis**
+  - **Real time Chat-Hub**
   - **Java Full Stack Web Applications**
 
 - 💬 Ask me about **Java, Python, SQL, Web Development, and Machine Learning**
